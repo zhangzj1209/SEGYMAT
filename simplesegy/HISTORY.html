@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+  <title>simplesegy release history</title>
+</head>
+<body>
+<b>simplesegy release history</b>
+  <ul> <!-- list of all releases -->
+
+    <li>0.7 - 2009-02-13
+      <ul>
+	<li>new command: segy-validate - tries to find problem spots in segy files</li>
+	<li>segy-metadata: now can force year and julian day if need be</li>
+	<li>segy-info: text mode formats a bit better</li>
+	<li>segy: changed the handling of coordinates.  'x' and 'y' are now interpreted coordinates.  use 'x_raw' and 'y_raw' for originals</li>
+	<li>debugging: in checkpoint, fixed the filename to match the actual calling file</li>
+	<li>new file: common_opts for command line options that are common to many programs</li>
+      </ul>
+    </li>
+
+    <li>0.6 - 2009-02-12
+      <ul>
+	<li>More error trappings for ODEC format.  Some only read in Sonarweb</li>
+	<li>Added summar to info.  Incomplete</li>
+	<li>More info on ODEC.</li>
+	<li>Added cmds/slice for cutting up segy files to a subset of traces</li>
+	<li>Fixed a bug in metadata where the program only worked in verbose mode... bad indentation</li>
+	<li>Hopefully kml works better</li>
+	<li>segy.py: Trace indexing from a Segy instance should work now</li>
+	<li>segy.py: Number of traces implemented</li>
+	<li>Traces can now return their raw data.  Used by slice</li>
+      </ul>
+    </li>
+
+    <li>0.5 - 2009-02-11
+      <ul>
+	<li>segy-metadata: Added ODEC options</li>
+	<li>docs/odec.txt: New file with format documentation</li>
+      </ul>
+    </li>
+
+    <li>0.4 - 2009-02-11
+      <ul>
+	<li>segy.py: Merged in Vesa Hautsalo's fixes (extendend headers would not have worked)</li>
+	<li>segy.py: Now can read ODEC's non-segy segy w/ help from Paul Henkart</li>
+	<li>segy.py: Much better support for decoding positions.  Looked at cwp-su.  Still missing support for 4</li>
+	<li>segy.py: cleanup of method order for Trace</li>
+	<li>added displays/kml.py, utils/debugging.py</li>
+	<li>cmds: Added segy-info command</li>
+      </ul>
+    </li>
+
+    <li>0.3 - 2009-01-26
+      <ul>
+	<li>segy.py: Fixed bug that prevented reading the trace sample</li>
+      </ul>
+    </li>
+
+    <li>0.2 - 2009-01-26
+      <ul>
+	<li>First real public release for reading segy and templating metadata</li>
+      </ul>
+    </li>
+
+
+    <li>0.1 - 2009-01-25
+      <ul>
+	<li>Getting reasonable</li>
+      </ul>
+    </li>
+
+  </ul>
+</body>
+</html
