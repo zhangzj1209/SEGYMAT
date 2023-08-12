@@ -1,2 +1,5 @@
-# SeisProcess_package
-Collate some conventional exploration seismic processing package.  
+# Matlab module of exploration seismology
+- **SeismicLab:**
+- **crewes:**
+- **segymat:**
+- **simplesegy:** 
