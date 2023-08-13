@@ -6,8 +6,8 @@
 - The package can be used to process small seismic data sets and, it is mainly intended for research and teaching purposes. Scripts to read and write SU data (the SEGY flavor used by [Seismic Un*x](www.cwp.mines.edu/cwpcodes/index.html)) are provided. A particular feature of this package is that the SEGY headers are loaded into a structure that can be easily assessed by MATLAB.
   - [GNU General Public License](http://seismic-lab.physics.ualberta.ca/gpl.html)
   - Download SeismicLab [ [SeismicLab.tar.gz](http://seismic-lab.physics.ualberta.ca/SeismicLab.tar.gz) | [SeismicLab.tar.Z](http://seismic-lab.physics.ualberta.ca/SeismicLab.tar.Z) | [SeiemicLab.tar](http://seismic-lab.physics.ualberta.ca/SeismicLab.tar)]
-  - Add the script setpath.m in your working directory
-    - download [setpath.m](http://seismic-lab.physics.ualberta.ca/setpath.m)
+  - Add the script `setpath.m` in your working directory
+    - download [`setpath.m`](http://seismic-lab.physics.ualberta.ca/setpath.m)
     - see [setpath.m](http://seismic-lab.physics.ualberta.ca/setpath.html)
     - try this one for windows [setpath_Windows.m](http://seismic-lab.physics.ualberta.ca/setpath_Windows.m)
   - Edit `setpath.m` to reflect the path to SeismicLab in your system
