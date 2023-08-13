@@ -1,1 +1,0 @@
-seis=seis*diag(scales);
