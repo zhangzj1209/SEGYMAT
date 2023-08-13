@@ -19,6 +19,11 @@
 
 - **CREWES MATLABT Software Library** (CMSL) is a software package developed by Gary F. Margrave for teaching and research of exploration seismology.
 - An older, less complete, free version is provided [here](https://www.crewes.org/ResearchLinks/FreeSoftware/).
+  - **CREWES Toolbox Version: 2104**
+    - [CREWES Matlab Toolbox (ZIP)](https://www.crewes.org/ResearchLinks/FreeSoftware/crewes_educational.zip) 156.6 MB
+    - [Sample data to accompany Methods_of_Seismic_Data_Processing (ZIP)](https://www.crewes.org/ResearchLinks/FreeSoftware/NMESdata.zip) 13.65 MB]
+    - [Guide to the CREWES Matlab toolbox (PDF)](https://www.crewes.org/ResearchLinks/FreeSoftware/NumMeth.pdf)  6.98 MB
+    - [Introductory seismic data processing course (PDF)](https://www.crewes.org/ResearchLinks/FreeSoftware/Methods_of_Seismic_Data_Processing.pdf)  88.09 MB
 - The software package accompanies the textbook [***Numerical Methods of Exploration Seismology: With Algorithms in MATLAB***](https://www.cambridge.org/core/books/numerical-methods-of-exploration-seismology/53A21CAD45D4047D117191E6BF4408E2) (NMES) by Gary F. Margrave and Michael P. Lamoureux (Cambridge University Press, 2019).
 
 ## SegyMAT
