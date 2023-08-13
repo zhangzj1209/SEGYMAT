@@ -35,8 +35,8 @@
 - Extract the contents of crewes_educational.zip to:
   - **Microsoft Windows:** ```%USERPROFILE%\Documents\MATLAB\crewes```
   - **Linux:** ```$HOME/Documents/MATLAB/crewes```
-- Then start Matlab and look for 'Set Path' on the Home Ribbon.
-- In the window that appears, click on the button ```Add with subfolders...```.  Locate the folder called ```crewes``` -- Click on it once to highlight it, then click ```Select Folder```.  Save the new path by clicking ```Save```. 
+- Then start Matlab and look for ```Set Path``` on the Home Ribbon.
+- In the window that appears, click on the button ```Add with subfolders...``` .  Locate the folder called ```crewes``` -- Click on it once to highlight it, then click ```Select Folder```.  Save the new path by clicking ```Save```. 
 
 ## SegyMAT
 - SegyMAT is a set of m-files for reading and writing SEG-Y files from [MATLAB](http://mathworks.com) and [Octave](https://www.gnu.org/software/octave/), that aims to
