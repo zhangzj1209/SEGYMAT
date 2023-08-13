@@ -22,6 +22,3 @@
 - The latest **stable** version of SegyMAT is available from [Sourceforge](https://sourceforge.net/projects/segymat/).
 - The current **development** version of SegyMAT is available from [Github](https://github.com/cultpenguin/segymat).
 - The SegyMAT's documentation is available from https://segymat.readthedocs.io/en/latest/.
-
-## simplesegy
-
