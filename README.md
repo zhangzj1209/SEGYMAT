@@ -8,8 +8,8 @@
   - Download SeismicLab [ [SeismicLab.tar.gz](http://seismic-lab.physics.ualberta.ca/SeismicLab.tar.gz) | [SeismicLab.tar.Z](http://seismic-lab.physics.ualberta.ca/SeismicLab.tar.Z) | [SeiemicLab.tar](http://seismic-lab.physics.ualberta.ca/SeismicLab.tar)]
   - Add the script `setpath.m` in your working directory
     - download [`setpath.m`](http://seismic-lab.physics.ualberta.ca/setpath.m)
-    - see [setpath.m](http://seismic-lab.physics.ualberta.ca/setpath.html)
-    - try this one for windows [setpath_Windows.m](http://seismic-lab.physics.ualberta.ca/setpath_Windows.m)
+    - see [`setpath.m`](http://seismic-lab.physics.ualberta.ca/setpath.html)
+    - try this one for windows [`setpath_Windows.m`](http://seismic-lab.physics.ualberta.ca/setpath_Windows.m)
   - Edit `setpath.m` to reflect the path to SeismicLab in your system
   - Start Matlab, run setpath
   - Try the [demos](http://seismic-lab.physics.ualberta.ca/help.html#A11)
